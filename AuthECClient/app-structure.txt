@@ -1,0 +1,15 @@
+src
+└── app
+    ├── user
+    │   ├── user.component.ts|.html  
+    │   ├── login (cmp. folder)   
+    │   └── registration (cmp. folder)
+    │       
+    ├── dashboard (cmp. folder)
+    |
+    │       
+    └── shared
+        ├── pipes
+        │   └── first-key.pipe.ts  
+        └── services
+            └── auth.service.ts
